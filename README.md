@@ -85,7 +85,7 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background-image: url(../image.webp.jpeg);
+    background-image: url(../image-fundo.jpeg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
